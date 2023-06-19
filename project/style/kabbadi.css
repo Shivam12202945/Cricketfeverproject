@@ -1,0 +1,75 @@
+body
+{
+    background-image: url('https://www.yuvakabaddi.com/yks-logo.png');
+    background-size: contain;
+
+    
+}
+.nav
+{
+    background-image: url('https://www.yuvakabaddi.com/yks-logo.png');
+    text-align: center;
+    
+}
+ h1{
+   
+    color: rosybrown;
+}
+ 
+.card1 img{
+
+    height: 60vh;
+    border-radius: 100px;
+    border: solid 11px;
+   
+    border: solid 11px white;
+    box-shadow: 4px 4px 20px 10px white;
+    
+   
+}
+.card2 img{
+    
+    height: 60vh;
+    border-radius: 100px;
+    border: solid 11px;
+   
+    border: solid 11px white;
+    box-shadow: 4px 4px 20px 10px white; 
+
+}
+.card3 img{
+    height: 60vh;
+    border-radius: 100px;
+    border: solid 11px;
+   
+    border: solid 11px white;
+    box-shadow: 4px 4px 20px 10px white;
+    
+
+}
+.parent
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+} 
+h2{
+    text-align: center;
+    color:rgb(20, 20, 20);
+    text-decoration-color: black;
+    text-decoration: underline;
+}
+
+.card-body{
+    text-align: center;
+}
+p{
+    color: rgb(21, 21, 21);
+    text-decoration: underline;
+}
+a{
+    color: rgb(163, 24, 29);
+}
+
+  

@@ -1,0 +1,64 @@
+.form
+{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: start;
+   
+    /* width: 100vw; */
+    flex-wrap: wrap;
+    padding: 23px;
+    background: #9da59e;
+    border-radius: 5px;
+    
+}
+label{
+    color: white;
+}
+body
+{
+background-image: url('./../assets/sports.webp');
+
+   
+}
+input{
+    padding: 11px 15px;
+    border-radius: 7px;
+    border: solid grey 2px;
+}
+.button1
+{
+    padding: 16px;
+    border-radius: 104px;
+    border: solid grey 1px;
+    height: auto;
+    width: fit-content;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.parentbutton
+{
+    justify-content: center;
+}
+.first
+{
+    height: 100vh;
+    width:auto;
+    background-image: url('./../assets/sports.webp');
+    display: flex;
+    background-color: pink;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h1
+{
+    color:dodgerblue;
+}
+.form-field
+{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
